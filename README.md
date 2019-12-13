@@ -1,6 +1,6 @@
 # searching_gifs
 
-App for search gifs in GIPHY
+App for search gifs in Flutter using GIPHY.com API
 
 ## Getting Started
 
